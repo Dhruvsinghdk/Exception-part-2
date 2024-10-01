@@ -1,4 +1,6 @@
 
+//User define d exception
+
 class  A{
     void show(){
         for (int i = 1; i <=10; i++)  {

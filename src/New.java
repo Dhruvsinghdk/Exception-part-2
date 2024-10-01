@@ -5,7 +5,7 @@ public class New {
 
         try{
         if(amt<withd){
-            throw new ArithmeticException("Isufficent balance");           // to define own exception use throw else use throws
+            throw new ArithmeticException("Erroe not complete");           // to define own exception use throw else use throws
             }
         }
         catch (Exception e){
